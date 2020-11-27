@@ -1,2 +1,2 @@
 # test-colab
-This is where I practice my knowledge of numpy, pandas and scikit-learn
+This is where I practise my knowledge of numpy, pandas and scikit-learn
